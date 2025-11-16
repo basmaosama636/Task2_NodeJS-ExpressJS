@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 
 .env
@@ -14,3 +15,10 @@ Thumbs.db
 
 public/js/*.min.js
 public/css/*.min.css
+=======
+# Node modules
+node_modules
+
+# Environment variables
+.env
+>>>>>>> 9256669d06a492c9639bcef3278566c25f1c97e1
